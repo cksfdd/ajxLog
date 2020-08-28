@@ -3,7 +3,7 @@
     "displayName": "ajx log utils",
     "description": "Help insert and remove ajx.log.(*) statements",
     "version": "0.0.1",
-    "publisher": "xudongchen",
+    "publisher": "xudong",
     "repository": "https://github.com/cksfdd/ajxLog",
     "engines": {
         "vscode": "^1.0.0"
